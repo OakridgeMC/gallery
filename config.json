@@ -1,7 +1,7 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Oakridge Photo Gallery | <a href=\"https://OakridgeMC.github.io\">Return Home</a>",
+  "title": "Oakridge Photo Gallery",
   "sort-albums-by": "title",
   "sort-albums-direction": "asc",
   "sort-media-by": "filename",
@@ -10,6 +10,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "<a href=\"https://OakridgeMC.github.io\">Return Home</a><br>Copyright © <script>document.write(new Date().getFullYear())</script> Oakridge: Survival Unhinged. All Rights Reserved.",
+  "footer": "<a href=\"https://OakridgeMC.github.io\">Return Home</a><hr>Copyright © <script>document.write(new Date().getFullYear())</script> Oakridge: Survival Unhinged. All Rights Reserved.",
   "usage-stats": false
 }
